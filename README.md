@@ -103,7 +103,7 @@ It contains the readme file, one folder with all the photos used inside the read
 
 ##### - Ensild Bici
 ##### - Eva Daçi 
-##### - Enrieta Hoxha
+##### - Enriketa Hoxha
 ##### - Klaudia Kasa
 ##### - Qemal Sinaj 
 
