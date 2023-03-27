@@ -80,14 +80,14 @@ When time inside the game becomes greater than or equal to 60 seconds, the game 
 
 As mentioned before, this project is a set of python code files. They are not converted in .exe files and the games are not implemented in the main code (Lectures part). So, to run this code you must install Python programming language and an IDE (Integrated Development Environment). This way you can run the code, get the output, and also modify it. <br/>**Recommended IDE:** PyScripter -> [Download PyScripter here!](https://sourceforge.net/projects/pyscripter/)
 <br/><br/>
-***To get the full project download the files of this repository ->***   [Download Repository!](https://github.com/Epoka-Python-Project/LECC_PLUS) <br/>
+***To get the full project download the files of this repository ->***   [Download Repository!](https://github.com/evadaci/LECC_Plus) <br/>
 
 
 It contains the readme file, one folder with all the photos used inside the readme file, and other folder named **FullProject**.
 <br/>The **FullProject** folder contains two important folders:
-- **Main LECTURES Folder**, that contains the main python code for the lectures, including also all the photos used inside the code -> [Main LECTURES Folder](https://github.com/Epoka-Python-Project/LECC_PLUS/tree/main/FullProject/Main%20LECTURES%20Folder) <br/>
+- **Main LECTURES Folder**, that contains the main python code for the lectures, including also all the photos used inside the code -> [Main LECTURES Folder](https://github.com/evadaci/LECC_Plus/tree/main/FullProject/Main%20LECTURES%20Folder) <br/>
 
-- **GAME Folder LECC+**, that contains 4 .py files for all 4 games created, and all the photos used inside these python code to make them run successfully -> [GAME Folder LECC+](https://github.com/Epoka-Python-Project/LECC_PLUS/tree/main/FullProject/Game%20Folder_LECC%2B) <br/>
+- **GAME Folder LECC+**, that contains 4 .py files for all 4 games created, and all the photos used inside these python code to make them run successfully -> [GAME Folder LECC+](https://github.com/evadaci/LECC_Plus/tree/main/FullProject/Game%20Folder_LECC%2B) <br/>
 
 
  
@@ -101,8 +101,8 @@ It contains the readme file, one folder with all the photos used inside the read
 
 ## Authors
 
-##### - Ensild Bici
 ##### - Eva Daçi 
+##### - Ensild Bici
 ##### - Enriketa Hoxha
 ##### - Klaudia Kasa
 ##### - Qemal Sinaj 
