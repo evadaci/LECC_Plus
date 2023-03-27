@@ -91,18 +91,18 @@ It contains the readme file, one folder with all the photos used inside the read
 
 
  
-**Game 1:** -> [C-programming (Beginner)](https://github.com/Epoka-Python-Project/LECC_PLUS/blob/main/FullProject/Game%20Folder_LECC%2B/GAME_C_BEGINNER.py) <br/>
-**Game 2:** -> [C-programming (Advanced)](https://github.com/Epoka-Python-Project/LECC_PLUS/blob/main/FullProject/Game%20Folder_LECC%2B/GAME_C_ADVANCED.py) <br/>
-**Game 3:** -> [CPP-programming (Beginner)](https://github.com/Epoka-Python-Project/LECC_PLUS/blob/main/FullProject/Game%20Folder_LECC%2B/GAME_C%2B%2B_BEGINNER.py) <br/>
-**Game 4:** -> [CPP-programming (Advanced)](https://github.com/Epoka-Python-Project/LECC_PLUS/blob/main/FullProject/Game%20Folder_LECC%2B/GAME_C%2B%2B_ADVANCED.py) <br/>
+**Game 1:** -> [C-programming (Beginner)](https://github.com/evadaci/LECC_Plus/blob/main/FullProject/Game%20Folder_LECC%2B/GAME_C_BEGINNER.py) <br/>
+**Game 2:** -> [C-programming (Advanced)](https://github.com/evadaci/LECC_Plus/blob/main/FullProject/Game%20Folder_LECC%2B/GAME_C_ADVANCED.py) <br/>
+**Game 3:** -> [CPP-programming (Beginner)](https://github.com/evadaci/LECC_Plus/blob/main/FullProject/Game%20Folder_LECC%2B/GAME_C%2B%2B_BEGINNER.py) <br/>
+**Game 4:** -> [CPP-programming (Advanced)](https://github.com/evadaci/LECC_Plus/blob/main/FullProject/Game%20Folder_LECC%2B/GAME_C%2B%2B_ADVANCED.py) <br/>
 
 
 
 
 ## Authors
 
-##### - Eva Daçi 
 ##### - Ensild Bici
+##### - Eva Daçi 
 ##### - Enriketa Hoxha
 ##### - Klaudia Kasa
 ##### - Qemal Sinaj 
